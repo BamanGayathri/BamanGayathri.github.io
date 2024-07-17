@@ -1,0 +1,5 @@
+1. download the folder in vscode and open it
+2. now before ahead we need to have node.js and react js and npm install
+3. now in terminal check their version just to be sure
+4. now do npm install
+5. npm start in localhost:3000
