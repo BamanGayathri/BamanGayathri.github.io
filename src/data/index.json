@@ -1,0 +1,223 @@
+{
+    "pl" : [
+        {
+            "id": "1",
+            "title": "Java",
+            "count":"4"
+        },
+        {
+            "id": "2",
+            "title": "Python",
+            "count":"5"
+        },
+        {
+            "id": "3",
+            "title": "Bash",
+            "count":"4"
+        },
+        {
+            "id": "4",
+            "title": "XML",
+            "count":"4"
+        },
+        {
+            "id": "5",
+            "title": "R",
+            "count":"4"
+        },
+        {
+            "id": "6",
+            "title": "Ruby",
+            "count":"3"
+        },
+        {
+            "id": "7",
+            "title": "Rust",
+            "count":"3"
+        },
+        {
+            "id": "8",
+            "title": "TypeScript",
+            "count":"5"
+        }
+    ],
+    "wt" : [
+        {
+            "id": "1",
+            "title": "HTML",
+            "count": "5"
+        },
+        {
+            "id": "2",
+            "title": "CSS",
+            "count": "5"
+        },
+        {
+            "id": "3",
+            "title": "JavaScript",
+            "count": "5"
+        },
+        {
+            "id": "4",
+            "title": "TypeScript",
+            "count": "5"
+        },
+        {
+            "id": "5",
+            "title": "React",
+            "count": "5"
+        },
+        {
+            "id": "6",
+            "title": "React Native",
+            "count": "5"
+        }
+    ],
+    "db" : [
+        {
+            "id": "1",
+            "title": "SQL",
+            "count": "5"
+        },
+        {
+            "id": "2",
+            "title": "PL/SQL",
+            "count": "5"
+        },
+        {
+            "id": "3",
+            "title": "MongoDB",
+            "count": "5"
+        },
+        {
+            "id": "4",
+            "title": "NoSql",
+            "count": "5"
+        }
+    ],
+    "others" : [
+        {
+            "id": "1",
+            "title": "Machine Learning",
+            "count": "5"
+        },
+        {
+            "id": "2",
+            "title": "Software Development for AI",
+            "count": "4"
+        },
+        {
+            "id": "3",
+            "title": "Fundamentals of AI",
+            "count": "4"
+        },
+        {
+            "id": "4",
+            "title": "Software Engineering",
+            "count": "5"
+        },
+        {
+            "id": "5",
+            "title": "Computer Algorithms",
+            "count": "4"
+        },
+        {
+            "id": "6",
+            "title": "Data Structures and Algorithms",
+            "count": "4"
+        }
+        
+    ],
+    "ot" : [
+        {
+            "id": "1",
+            "title": "Amazon Web Services",
+            "count": "5"
+        },
+        {
+            "id": "2",
+            "title": "Google Cloud",
+            "count": "5"
+        },
+        {
+            "id": "3",
+            "title": "Docker",
+            "count": "5"
+        },
+        {
+            "id": "4",
+            "title": "Apache Maven",
+            "count": "5"
+        },
+        {
+            "id": "5",
+            "title": "Git",
+            "count": "5"
+        },
+        {
+            "id": "6",
+            "title": "Tableau",
+            "count": "5"
+        },
+        {
+            "id": "7",
+            "title": "JUnit",
+            "count": "4"
+        },
+        {
+            "id": "8",
+            "title": "PowerBI",
+            "count": "5"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id" :"1",
+            "src": "./img/To-do-list-alogo.jpg",
+            "title": "Notebook-To-do-list-application",
+            "description": "A Notebook-To-Do-List application is a digital tool designed to help users organize and manage their tasks, notes, and reminders efficiently using Javascript and MongoDB.",
+            "link": "https://github.com/BamanGayathri/Notebook-To-do-list-application"
+        },
+        {
+            "id" :"2",
+            "src": "./img/ecommerce-logo.webp",
+            "title": "E-commerce Project",
+            "description": "The E-commerce Project is a dynamic platform utilizing JavaScript and databases to enhance online shopping experiences with advanced statistical measures.",
+            "link": "https://github.com/BamanGayathri/E-commerce-Project"
+        },
+        {
+            "id" :"3",
+            "src": "./img/credit-card-logo.jpg",
+            "title": "Credit Card Fraud Detection",
+            "description": "A credit card fraud detection project involves developing algorithms to identify and prevent unauthorized transactions by analyzing patterns and anomalies in transaction data.",
+            "link": "https://github.com/BamanGayathri/Credit-Card-Fraud"
+        }
+    ],
+    "testimonial" : [
+        {
+            "id" :"1",
+            "count": "4",
+            "src": "./img/avatar-image.png",
+            "description": "lorem12",
+            "author_name": "Dianne Russel",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id" :"2",
+            "count": "5",
+            "src": "./img/avatar-image-1.png",
+            "description": "lorem12",
+            "author_name": "Kristin Watson",
+            "author_designation": "Starbucks"
+        },
+        {
+            "id" :"3",
+            "count": "5",
+            "src": "./img/avatar-image-2.png",
+            "description": "lorem12",
+            "author_name": "Dianne",
+            "author_designation": "Starbucks"
+        }
+    ]
+}

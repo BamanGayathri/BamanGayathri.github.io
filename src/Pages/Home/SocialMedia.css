@@ -1,0 +1,20 @@
+.social-media-div {
+  font-size: 2em;
+  margin: 10px 10px 10px 10px;
+}
+
+.icon-button i {
+  color: white;
+}
+.icon-button {
+  margin: 10px 10px 10px 10px;
+}
+
+
+
+/* Media Query */
+@media (max-width: 768px) {
+  .social-media-div {
+    text-align: center;
+  }
+}
